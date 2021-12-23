@@ -9,6 +9,7 @@ I am a Junior Web Developer from Bangladesh.
 - 👯 I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me: ahmedtanvir6168@gmail.com
 - 😄 Most used line of code `console.log()`
+- 👻 I write articles on https://medium.com/@ahmedtanvir6168
 - ⚡ Fun fact: Bug works like caffeine for me
 - 🎯 2021 Goals: Jest & Cypress
 

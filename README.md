@@ -1,10 +1,10 @@
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="hi">, I am [Tanvir Ahmed](https://tanvir-ahmed.netlify.app/) 
 
-I am a Front-End Developer from Dhaka,Bangladesh.
+I am a Front-End Developer from Dhaka, Bangladesh.
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on Front-End development using React ecosytem.
+- 🔭 I’m currently working on Front-End development using React ecosystem.
 - 🌱 I’m currently learning GraphQL.
 - 👯 I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me: ahmedtanvir6168@gmail.com

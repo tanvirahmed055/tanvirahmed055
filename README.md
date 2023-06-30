@@ -1,4 +1,4 @@
-# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="hi">, I am [Tanvir Ahmed](https://tanvir-ahmed.netlify.app/) 
+# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="hi">, I am [Tanvir Ahmed](https://tanvir-ahmed.netlify.app/)
 
 I am a Front-End Developer from Dhaka, Bangladesh.
 
@@ -11,7 +11,7 @@ I am a Front-End Developer from Dhaka, Bangladesh.
 - 😄 Most used line of code `console.log()`
 - 👻 I write articles on https://medium.com/@ahmedtanvir6168
 - ⚡ Fun fact: Bug works like caffeine for me
-- 🎯 2022 Goals: Jest & Cypress
+- 🎯 2023 Goals: Jest & Cypress
 
 <br/>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
@@ -56,10 +56,8 @@ I am a Front-End Developer from Dhaka, Bangladesh.
 [![Vs Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/tanvirahmed055)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
-
 <br/>
 
 ## 📊 My Github Stats
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanvirahmed055&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanvirahmed055&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
